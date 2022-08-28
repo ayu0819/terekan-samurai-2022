@@ -1,0 +1,12 @@
+{
+  "name": "terekan-samurai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "scss": "sass src/css"
+  },
+  "devDependencies": {
+    "sass": "^1.54.5"
+  }
+}
